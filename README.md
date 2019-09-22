@@ -3,6 +3,9 @@ Quickly search for files in NTFS volumes parsing the Master File Table (MFT). Th
 
 ![](https://raw.githubusercontent.com/farfella/ntfs-cpu-search/master/images/ntfs-cpu-search.png)
 
+# Executable version
+A precompiled version is provided under the release directory.
+
 # Background
 This is the CPU-only release. An ntfs-amd-search also existed with contained both CPU and GPU implementations. That release won an honorable mention in the AMD OpenCL Competition back in 2011 (see amd\readme.pdf).
 
